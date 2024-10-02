@@ -1,2 +1,3 @@
 # piyush-demo
-my first Git Repository
+My first Git Repository
+Author - Piyush Bharti
